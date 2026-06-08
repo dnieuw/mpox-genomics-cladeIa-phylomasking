@@ -1,0 +1,29 @@
+Reference,Name,Type,Minimum,Maximum,Length,Direction,Note
+PX667572,noisy region,misc_feature,1771,1785,15,none,squirrel default mask
+PX667572,repetitive region,misc_feature,8612,8637,26,none,squirrel default mask
+PX667572,repetitive region,misc_feature,10460,10561,102,none,squirrel default mask
+PX667572,homopolymeric runs,misc_feature,20498,20517,20,none,squirrel default mask
+PX667572,homopolymeric runs,misc_feature,21392,21413,22,none,squirrel default mask
+PX667572,repetitive region,misc_feature,31813,31844,32,none,squirrel default mask
+PX667572,repetitive region,misc_feature,138370,138465,96,none,squirrel default mask
+PX667572,repetitive region,misc_feature,148743,148815,73,none,squirrel default mask
+PX667572,repetitive region,misc_feature,150238,150256,19,none,squirrel default mask
+PX667572,repetitive region,misc_feature,152436,152652,217,none,squirrel default mask
+PX667572,noisy region,misc_feature,158554,158561,8,none,squirrel default mask
+PX667572,messy region,misc_feature,162940,163021,82,none,squirrel default mask
+PX667572,homopolymeric runs,misc_feature,177806,177817,12,none,squirrel default mask
+PX667572,homopolymeric runs,misc_feature,178826,179017,192,none,squirrel default mask
+PX667572,repetitive region,misc_feature,177591,177628,38,none,
+PX667572,gappy region,misc_feature,170709,170734,26,none,
+PX667572,repetitive region,misc_feature,169498,169577,80,none,
+PX667572,repetitive region,misc_feature,145291,145315,25,none,
+PX667572,N adjacent,misc_feature,123650,123650,1,none,
+PX667572,clustered snps,misc_feature,84288,84300,13,none,
+PX667572,gappy region,misc_feature,49809,49819,11,none,
+PX667572,N adjacent,misc_feature,21095,21095,1,none,
+PX667572,N adjacent,misc_feature,18205,18205,1,none,
+PX667572,ITR,misc_feature,1,6427,6427,none,
+PX667572,N adjacent,misc_feature,20152,20152,1,none,
+PX667572,repetitive region,misc_feature,50181,50191,11,none,
+PX667572,N adjacent,misc_feature,159162,159162,1,none,
+PX667572,repetitive region,misc_feature,173066,173080,15,none,
